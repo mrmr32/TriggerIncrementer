@@ -1,0 +1,6 @@
+﻿src\TriggerIncrementer.cs
+src\TriggerIncrementerUI.cs
+src\TriggerIncrementerActions.cs
+src\CustomTrigger.cs
+src\CustomCollisionTrigger.cs
+MacGruber.LogicBricks.12:/Custom/Scripts/MacGruber/LogicBricks/Internal/MacGruber_Utils.cs
